@@ -1,16 +1,17 @@
 
-Hi, I´m Emanuel Navarro :smile:
+### Hi, I´m Emanuel Navarro :smile:
 
 Information systems engineering Student and Web developer.
 
 ##  Skills
-https://img.shields.io/badge/-HTML-darkred | https://img.shields.io/badge/-CSS-darkblue | https://img.shields.io/badge/-Python-yellow | https://img.shields.io/badge/-Django-darkgreen | https://img.shields.io/badge/-SQL-lightblue
+<img src="https://img.shields.io/badge/-HTML-darkred"> | <img src="https://img.shields.io/badge/-CSS-darkblue"> | <img src="https://img.shields.io/badge/-Python-yellow"> | <img src="https://img.shields.io/badge/-Django-darkgreen"> | <img src="https://img.shields.io/badge/-SQL-blue">
 
 ## Languages
-https://img.shields.io/badge/-Spanish-red | https://img.shields.io/badge/-English-lightblue 
+<img src="https://img.shields.io/badge/-Spanish-red"> | <img src="https://img.shields.io/badge/-English-lightblue"> 
 
 ## Learning
-https://img.shields.io/badge/-ReactJS-violet | https://img.shields.io/badge/-Javascript-orange | https://img.shields.io/badge/-NodeJS-green
+<img src="https://img.shields.io/badge/-ReactJS-violet"> | <img src="https://img.shields.io/badge/-Javascript-orange"> | <img src="https://img.shields.io/badge/-NodeJS-green"> | <img src="https://img.shields.io/badge/-German-yellow">
+
 
 > Always learning
 
