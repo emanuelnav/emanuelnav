@@ -1,7 +1,7 @@
 
 ### Hi, I´m Emanuel Navarro :smile:
 
-Information systems engineering Student and Web developer.
+Information systems engineering Student and FullStack developer.
 
 ##  Skills
 <img src="https://img.shields.io/badge/-HTML-darkred"> | <img src="https://img.shields.io/badge/-CSS-darkblue"> | <img src="https://img.shields.io/badge/-Python-yellow"> | <img src="https://img.shields.io/badge/-Django-darkgreen"> | <img src="https://img.shields.io/badge/-SQL-blue">
