@@ -13,7 +13,7 @@ Information systems engineering Student and FullStack developer.
 <img src="https://img.shields.io/badge/-ReactJS-violet"> | <img src="https://img.shields.io/badge/-Javascript-orange"> | <img src="https://img.shields.io/badge/-NodeJS-green"> | <img src="https://img.shields.io/badge/-Wordpress-blue"> |  <img src="https://img.shields.io/badge/-German-yellow">
 
 
-> Always learning
+> Never stop learning
 
 ## Contact Me :envelope:
 
