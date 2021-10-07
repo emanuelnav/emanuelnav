@@ -1,16 +1,16 @@
 
 ### Hi, I'm Emanuel Navarro :smile:
 
-Information systems engineering Student and Frontend developer.
+FullStack developer.
 
 ##  Skills
-<img src="https://img.shields.io/badge/-HTML-darkred"> | <img src="https://img.shields.io/badge/-CSS-darkblue"> | <img src="https://img.shields.io/badge/-Javascript-orange"> | <img src="https://img.shields.io/badge/-Python-yellow"> | <img src="https://img.shields.io/badge/-Django-darkgreen"> | <img src="https://img.shields.io/badge/-SQL-blue">
+<img src="https://img.shields.io/badge/-HTML-darkred"> | <img src="https://img.shields.io/badge/-CSS-darkblue"> | <img src="https://img.shields.io/badge/-Javascript-orange"> | <img src="https://img.shields.io/badge/-Python-yellow"> | <img src="https://img.shields.io/badge/-VueJS-lightgreen"> | <img src="https://img.shields.io/badge/-SQL-blue">
 
 ## Languages
 <img src="https://img.shields.io/badge/-Spanish-darkred"> | <img src="https://img.shields.io/badge/-English-blue"> 
 
 ## Learning
-<img src="https://img.shields.io/badge/-React-violet"> | <img src="https://img.shields.io/badge/-NodeJS-green"> | <img src="https://img.shields.io/badge/-Wordpress-blue"> |  <img src="https://img.shields.io/badge/-German-yellow">
+<img src="https://img.shields.io/badge/-Laravel-violet"> | <img src="https://img.shields.io/badge/-Django-darkgreen"> | <img src="https://img.shields.io/badge/-Wordpress-blue"> |  <img src="https://img.shields.io/badge/-German-yellow">
 
 
 > Never stop learning
