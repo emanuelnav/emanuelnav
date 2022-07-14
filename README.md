@@ -5,14 +5,44 @@
 - 🎓 I have experience making responsive web applications and working in team.
 - 👾 In my free time I love to play videogames (mostly esports) and sports like padel or tennis 🎾.
 
-## 🔬 Skills
-<img src="https://img.shields.io/badge/-Javascript-orange"> | <img src="https://img.shields.io/badge/-VueJS-lightgreen"> | <img src="https://img.shields.io/badge/-Laravel-darkred"> | <img src="https://img.shields.io/badge/-Python-yellow"> | <img src="https://img.shields.io/badge/-SQL-blue">
+## 🔬 Languages and Tools
 
-## 📚 Learning
-<img src="https://img.shields.io/badge/-React-blue"> | <img src="https://img.shields.io/badge/-Django-darkgreen"> |  <img src="https://img.shields.io/badge/-German-yellow">
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
+<img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
+<img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="48" height="48"/>
+</p>
+
+## 🌱 Currently i'm learning
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height="48" width="48" />
+<img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" height="48" width="48" />
+</p>
 
 > Never stop learning
 
 ## ✨ Conect with Me
 
-<a href="https://www.linkedin.com/in/emanuelnav" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23108CCC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" width="150"></a>  <a href="https://www.instagram.com/emanuelnav_/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23D17417.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="35" width="150"></a> <a href="https://twitter.com/emanuelnav_" target="_blank"><img src="https://img.shields.io/badge/twitter-%23108CCC.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="35" width="150"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/emanuelnav" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Profile" height="48" width="48" /></a>
+<a href="https://twitter.com/emanuelnav_" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter Profile" height="48" width="48" /></a>
+<a href="https://www.instagram.com/emanuelnav_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram Profile" height="48" width="48"></a>
+</p>
+
+## 📊 Github Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=emanuelnav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="emanuelnav" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelnav&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="emanuelnav" /></td>
+  </tr>
+</table>
