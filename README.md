@@ -8,24 +8,24 @@
 ## 🔬 Languages and Tools
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
-<img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
-<img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="48" height="48"/>
 </p>
 
 ## 🌱 Currently i'm learning
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height="48" width="48" />
-<img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" height="48" width="48" />
+<img align="center" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height="48" width="48" />
+<img align="center" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" height="48" width="48" />
 </p>
 
 > Never stop learning
