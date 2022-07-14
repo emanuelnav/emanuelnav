@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Emanuel a Web developer 👨‍💻
+## Hi there! 👋 I'm Emanuel a Full Stack developer 👨‍💻
 
 - 💻 I'm currently working at [42mate](https://www.42mate.com/) as a Full Stack developer.
 - 🚀 I'm passionate about technology and to learning new things.
