@@ -14,6 +14,7 @@
 <img align="center" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/material/48/000000/django.png" alt="django" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
