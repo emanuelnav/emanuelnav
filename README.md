@@ -20,12 +20,15 @@
 <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/fluency/48/null/ansible.png" alt="ansible" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/null/terraform.png" alt="terraform" width="48" height="48"/>
+  
 </p>
 
 ## 🌱 Currently i'm learning
 
 <p align="left">
-<img align="center" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height="48" width="48" />
 <img align="center" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" height="48" width="48" />
 </p>
 
