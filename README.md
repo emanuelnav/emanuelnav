@@ -25,7 +25,7 @@
 ## 🌱 Currently i'm learning
 
 <p align="left">
-<img align="center" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" height="48" width="48" />
+<img align="center" src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" height="48" width="48" />
 <img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/fluency/48/null/ansible.png" alt="ansible" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/null/terraform.png" alt="terraform" width="48" height="48"/>
@@ -37,8 +37,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/emanuelnav" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Profile" height="48" width="48" /></a>
-<a href="https://twitter.com/emanuelnav_" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter Profile" height="48" width="48" /></a>
 <a href="https://www.instagram.com/emanuelnav_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram Profile" height="48" width="48"></a>
+<a href="mailto:emanuelnavarro.dev@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" alt="Email" height="48" width="48"></a>
 </p>
 
 ## 📊 Github Stats
