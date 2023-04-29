@@ -8,13 +8,11 @@
 ## 🔬 Languages and Tools
 
 <p align="left">
-<img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/material/48/000000/django.png" alt="django" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/material/48/000000/django.png" alt="django" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
@@ -25,10 +23,7 @@
 ## 🌱 Currently i'm learning
 
 <p align="left">
-<img align="center" src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" height="48" width="48" />
 <img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/fluency/48/null/ansible.png" alt="ansible" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/null/terraform.png" alt="terraform" width="48" height="48"/>
 </p>
 
 > Never stop learning
