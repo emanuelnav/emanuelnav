@@ -9,7 +9,7 @@
 
 <p align="left">
 <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/material/48/000000/django.png" alt="django" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/null/django.png" alt="django" width="64" height="64"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
