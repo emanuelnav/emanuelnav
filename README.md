@@ -24,6 +24,7 @@
 
 <p align="left">
 <img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/react-native.png" alt="react" width="48" height="48"/>
 </p>
 
 > Never stop learning
