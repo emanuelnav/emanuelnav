@@ -36,12 +36,3 @@
 <a href="https://www.instagram.com/emanuelnav_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram Profile" height="48" width="48"></a>
 <a href="mailto:emanuelnavarro.dev@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" alt="Email" height="48" width="48"></a>
 </p>
-
-## 📊 Github Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=emanuelnav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="emanuelnav" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelnav&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="emanuelnav" /></td>
-  </tr>
-</table>
