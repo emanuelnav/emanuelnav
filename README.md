@@ -1,38 +1,49 @@
-## Hi there! 👋 I'm Emanuel a Full Stack developer 👨‍💻
+## 👋 Hi there! I'm Emanuel Navarro 👨‍💻
 
-- 💻 I'm currently working at [42mate](https://www.42mate.com/) as a Full Stack developer.
-- 🚀 I'm passionate about technology and to learning new things.
-- 🎓 I have experience making responsive web applications and working in team.
-- 👾 In my free time I love to play videogames (mostly esports) and sports like padel or tennis 🎾.
+- 🚀 I'm a Software developer, passionate about new technologies and to learning new things.
+- ☕  I'm currently working at [42mate](https://www.42mate.com/) as a Full Stack developer.
+- ✈️ I love traveling and getting to know new places, people and cultures.
+- 👾 In my free time I love to play videogames and sports like padel or tennis 🎾.
 
-## 🔬 Languages and Tools
+## 📧 Conect with Me
 
-<p align="left">
-<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/null/django.png" alt="django" width="64" height="64"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="48" height="48"/>
-</p>
+<a href="https://www.linkedin.com/in/emanuelnav">![Linkedin](https://img.shields.io/badge/Linkedin-4285F4?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 🌱 Currently i'm learning
+<a href="mailto:emanuelnavarro.dev@gmail.com">![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
 
-<p align="left">
-<img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
-<img align="center" src="https://img.icons8.com/color/48/react-native.png" alt="react" width="48" height="48"/>
-</p>
+<a href="https://www.instagram.com/emanuelnav_/">![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)
+
+##  💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
+
+## 📘 Currently learning
+
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
 
 > Never stop learning
 
-## ✨ Conect with Me
+## 📝 Latest blog articles
 
-<p align="left">
-<a href="https://www.linkedin.com/in/emanuelnav" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Profile" height="48" width="48" /></a>
-<a href="https://www.instagram.com/emanuelnav_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram Profile" height="48" width="48"></a>
-<a href="mailto:emanuelnavarro.dev@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" alt="Email" height="48" width="48"></a>
-</p>
+- [How to Easily Dockerize a Next.js Application](https://dev.to/emanuelnav/how-to-easily-dockerize-a-nextjs-application-p3f)
+- [Integrate Snowflake with Laravel](https://dev.to/emanuelnav/integrate-snowflake-with-laravel-450g)
+- [Logging changes in Laravel using Traits](https://dev.to/emanuelnav/logging-changes-in-laravel-using-traits-4fo3)
+
+> [...more articles](https://dev.to/emanuelnav)
