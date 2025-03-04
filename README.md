@@ -7,7 +7,7 @@
 
 ## 📧 Conect with Me
 
-<a href="https://www.linkedin.com/in/emanuelnav">![Linkedin](https://img.shields.io/badge/Linkedin-4285F4?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/emanuel-navarro-dev">![Linkedin](https://img.shields.io/badge/Linkedin-4285F4?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <a href="mailto:emanuelnavarro.dev@gmail.com">![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
 
